@@ -96,4 +96,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
+
+Youtube: https://www.youtube.com/watch?v=5Mam9NuxwQc&list=PLnHJACx3NwAdCmDDPdCt6W6BJfRbatfnc
 <!-- AUTO-GENERATED-CONTENT:END -->

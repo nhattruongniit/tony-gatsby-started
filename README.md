@@ -96,6 +96,22 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
+# Agency
 
-Youtube: https://www.youtube.com/watch?v=5Mam9NuxwQc&list=PLnHJACx3NwAdCmDDPdCt6W6BJfRbatfnc
+## Styling
+
+- inline styles
+- global css
+- css modules
+- styled-components
+- bootstrap, tailwind, emotion ...etc
+
+## Graphql
+
+- StaticQuery
+- PageQuery
+- useStaticQuery
+
+Youtube: https://www.youtube.com/watch?v=5Mam9NuxwQc&list=PLnHJACx3NwAdCmDDPdCt6W6BJfRbatfnc (1h43)
+
 <!-- AUTO-GENERATED-CONTENT:END -->
